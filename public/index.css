@@ -1,4 +1,9 @@
 h1 {
-    color: red;
-    
+    color: red;  
+}
+
+td {
+    padding: 35px;
+    border: solid 1px black;
+    font-size: 30px;
 }
